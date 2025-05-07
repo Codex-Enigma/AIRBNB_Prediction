@@ -11,8 +11,11 @@ Build a dynamic pricing recommendation engine for Airbnb listings by analyzing h
 - **Excel**: Quick checks and summary calculations
 
 ---
-Link to Dashoboard - https://public.tableau.com/app/profile/pranay.mody/viz/Airbnb_17466031672600/AirbnbDashboard
+## Dashboard
+
 ![Airbnb Dashboard](https://raw.githubusercontent.com/Codex-Enigma/AIRBNB_Prediction/main/Airbnb%20Dashboard.png)
+## 🔗 View the Live Dashboard
+👉 [Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/pranay.mody/viz/Airbnb_17466031672600/AirbnbDashboard)
 
 ## 📈 Key Insights from Data Analysis
 
