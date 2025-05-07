@@ -12,7 +12,7 @@ Build a dynamic pricing recommendation engine for Airbnb listings by analyzing h
 
 ---
 
-![Dashboard 1](Images/Introduction.png)
+![Airbnb Dashboard](https://raw.githubusercontent.com/Codex-Enigma/AIRBNB_Prediction/main/Airbnb%20Dashboard.png)
 
 ## 📈 Key Insights from Data Analysis
 
