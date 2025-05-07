@@ -12,6 +12,8 @@ Build a dynamic pricing recommendation engine for Airbnb listings by analyzing h
 
 ---
 
+![Dashboard 1](Images/Introduction.png)
+
 ## 📈 Key Insights from Data Analysis
 
 ### Number of Listings by Top 10 Property Types
